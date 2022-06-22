@@ -86,7 +86,6 @@ enum NOE_BotonRaton
 	NOE_BOTONRATON_PRINCIPAL = 0,
 	NOE_BOTONRATON_SECUNDARIO,
 	NOE_BOTONRATON_CENTRAL
-
 };
 
 //////////////////////
